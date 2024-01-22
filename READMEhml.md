@@ -23,7 +23,7 @@
     <div class="logo">
         <img src="logo.png" alt="2AI Logo" class="2AiLogo" style="width: 5%;height: 100px;margin-left: 30px;">
     </div>
-  <div class="wrapper"><a class="site-title" rel="author" href="/">2AI Blog</a><nav class="site-nav">
+  <div class="wrapper"><a class="site-title" rel="author" href="/">2AI BLOG</a><nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
@@ -34,8 +34,9 @@
         </label>
 
 
-        <div class="trigger"><a class="page-link" href="/about/">ABOUT</a><a class="page-link" href="/donate/">DONATE</a></div>
-      </nav></div>
+        <div class="trigger"><a class="page-link" href="/about/">ABOUT</a><a class="page-link" href="/donate/">CONTACT</a></div>
+      </nav>
+    </div>
 </header>
 <div class="sidebar">
   <h2>Categories</h2>
@@ -48,7 +49,23 @@
     <!-- Add more categories as needed -->
   </ul>
 </div>
-
+</div>
+<div class="TeamMembers">
+  <h1>Team Members</h1>
+  <div class="TeamMembersNames">
+    <h3>Chenchu Reddy</h3>
+    <h3>Pooja Singh</h3>
+    <h3>Jaya Kumar</h3>
+    <h3>Kanishka</h3>
+    <h3>Aniketh</h3>
+  </div>
+</div>
+<div class="WelcomeText">
+  <h1 style="color: #000;">Welcome</h1>
+  <h3 class="WelcometextContent">
+    Welcome to the GitHub repository of the Applied AI research lab. This page is dedicated to disseminating research products/publications on artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining and big data with various application domains such as healthcare informatics and medical imaging, document imaging, biometrics, forensics, speech analysis and Internet of Things. 
+    We actively participate and/or sponsor the International Conf on Recent Trends in Image Processing & Pattern Recognition (RTIP2R).</h3>
+</div>
 
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
@@ -70,15 +87,19 @@
     </div>
 
 
-      </div>
-    </main><footer class="site-footer h-card">
+
+  </div>
+    </main>
+
+
+    <footer class="site-footer h-card">
   <data class="u-url" href="/"></data>
 
 
   <div class="wrapper">
 
 
-    <h2 class="footer-heading">2AI Blog</h2>
+    <h1 class="footer-heading">2AI Blog</h1>
 
 
     <div class="footer-col-wrapper">
@@ -93,11 +114,20 @@
 
 
       <div class="footer-col footer-col-3">
-        <p>Description on 2AI</p>      
+        <p>This page is dedicated to disseminating research products/publications on artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining and big data with various application domains such as healthcare informatics and medical imaging, document imaging, biometrics, forensics, speech analysis and Internet of Things.</p>      
       </div>
     </div>
 
 
+  </div>
+  <div class="address">
+    <address>
+Contact: Department of Computer Science<br>
+The University of South Dakota<br>
+414 E. Clark Street<br>
+Office #201, Arts & Sciences (Building)<br>
+Vermillion, SD 57069<br>
+    </address>
   </div>
 
 
@@ -106,6 +136,3 @@
 
 
 </html>
-
-
-
